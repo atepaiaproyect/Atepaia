@@ -1,6 +1,6 @@
 # 🌑 Atepaia: La Luna que olvidó su nombre
 
-![Banner de Atepaia](https://img.itch.zone) 
+![Banner de Atepaia]([https://img.itch.zone](https://img.itch.zone/aW1nLzI2MzQzNTAxLnBuZw==/315x250%23c/lATie6.png)) 
 
 > *"El mundo está vivo y recuerda a su creador. ¿A quién combatimos?"*
 
