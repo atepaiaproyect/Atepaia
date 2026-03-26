@@ -1,49 +1,41 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌑 Atepaia: La Luna que olvidó su nombre
 
-## 🌑 Únete a la comunidad
-Para debatir sobre el Lore, proponer mecánicas o participar en los foros oficiales, visítanos en:
-👉 **[Atepaia en itch.io](https://coloradosnm.itch.io)**
+![Banner de Atepaia](https://img.itch.zone) 
 
+> *"El mundo está vivo y recuerda a su creador. ¿A quién combatimos?"*
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+**Atepaia** es un ambicioso proyecto que fusiona **MMORPG** con **MMORTS**, desarrollado en **Godot Engine**. Un universo donde la economía, la guerra y la historia son forjadas exclusivamente por sus jugadores.
 
-- It's built with components from my Responsive Tools project.
+---
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+## 🎮 Características del Juego
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+- **Economía de Jugadores:** No hay ítems generados por el sistema. Todo es crafteado por un artesano, llevando su firma para siempre.
+- **Servidores de Temporada:** Compite por la gloria. Los servidores tienen un fin histórico, conmemorando al clan vencedor antes del reinicio.
+- **Sistema Legacy:** Tras el cierre, tus héroes pasan al reino "Legacy" para mantener su estatus y enfrentar desafíos de nivel superior.
+- **Lore y Misterio:** Descifra un idioma antiguo para comprender los secretos de la **Roca de Nathari** y el despertar de **Varek**.
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+---
 
-- A ton of other stuff.
+## 🛠️ Desarrollo y Comunidad
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Este proyecto es **Open Source** y vive gracias a su comunidad. ¡Sumate al desarrollo!
 
 
-Credits:
+| Plataforma | Link Directo |
+| :--- | :--- |
+| **🕹️ Comunidad Itch.io** | [coloradosnm.itch.io/atepaia](https://coloradosnm.itch.io) |
+| **📸 Instagram Oficial** | [@atepaia](https://www.instagram.com/atepaia/) |
+| **💻 Repositorio** | [GitHub - Atepaia](https://github.com) |
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 💬 Participá en el Debate
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+¿Tenés ideas para las mecánicas de los clanes o querés teorizar sobre el Lore? 
+
+[![Itch.io Badge](https://img.shields.io)](https://coloradosnm.itch.io)
+
+---
+
+*“Cuando el Devorador despierte, los justos no encontrarán refugio.”*
